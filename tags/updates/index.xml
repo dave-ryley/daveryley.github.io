@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates on Dave Ryley | Game Developer</title>
+    <link>https://www.daveryley.com/tags/updates/</link>
+    <description>Recent content in Updates on Dave Ryley | Game Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Dave Ryley</copyright>
+    <lastBuildDate>Tue, 03 Mar 2026 13:56:27 +0000</lastBuildDate><atom:link href="https://www.daveryley.com/tags/updates/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://www.daveryley.com/posts/hello-world/</link>
+      <pubDate>Tue, 03 Mar 2026 13:56:27 +0000</pubDate>
+      
+      <guid>https://www.daveryley.com/posts/hello-world/</guid>
+      <description>&lt;p&gt;Welcome to the site! This is something I should have put together a while ago, but better late than never.&lt;/p&gt;&#xA;&lt;p&gt;While in typical personal website fashion I&amp;rsquo;m going to be using this to showcase and link to projects I&amp;rsquo;ve worked on, I&amp;rsquo;ll also be using this as a resource for supporting my own (and hopefully others&amp;rsquo;) game development projects and personal growth.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve appreciated and made use of many a game developer&amp;rsquo;s personal efforts in documenting and providing resources for game development (highlighting &lt;a href=&#34;https://benui.ca/&#34; title=&#34;Ben UI&amp;#39;s website&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Ben UI&amp;rsquo;s website&lt;/a&gt; and &lt;a href=&#34;https://github.com/tranek/GASDocumentation&#34; title=&#34;Tranek&amp;#39;s GAS Documentation&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Tranek&amp;rsquo;s GAS Documentation&lt;/a&gt;) and figured it&amp;rsquo;s time I give back.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.daveryley.com/posts/hello-world/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

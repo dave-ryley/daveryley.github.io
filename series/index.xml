@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Dave Ryley | Game Developer</title>
+    <link>https://www.daveryley.com/series/</link>
+    <description>Recent content in Series on Dave Ryley | Game Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Dave Ryley</copyright>
+    <lastBuildDate>Fri, 27 Mar 2026 13:55:07 +0000</lastBuildDate><atom:link href="https://www.daveryley.com/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Engineering Roles in Game Dev</title>
+      <link>https://www.daveryley.com/series/engineering-roles-in-game-dev/</link>
+      <pubDate>Fri, 27 Mar 2026 13:55:07 +0000</pubDate>
+      
+      <guid>https://www.daveryley.com/series/engineering-roles-in-game-dev/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

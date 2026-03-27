@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graphics on Dave Ryley | Game Developer</title>
+    <link>https://www.daveryley.com/tags/graphics/</link>
+    <description>Recent content in Graphics on Dave Ryley | Game Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Dave Ryley</copyright>
+    <lastBuildDate>Fri, 20 Mar 2026 11:35:07 +0000</lastBuildDate><atom:link href="https://www.daveryley.com/tags/graphics/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Graphics Programmer</title>
+      <link>https://www.daveryley.com/posts/dev-roles-06-graphics-programmer/</link>
+      <pubDate>Fri, 20 Mar 2026 11:35:07 +0000</pubDate>
+      
+      <guid>https://www.daveryley.com/posts/dev-roles-06-graphics-programmer/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Overview&#xA;    &lt;div id=&#34;overview&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#overview&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The Graphics Programmer/Rendering Programmer is responsible for making the game look as good as it possibly can, while also making sure its within the performance budget for the target hardware. This involves working closely with artists to understand the target look and quality of the game, and working to find computationally cheaper solutions that still maintain that level of quality.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.daveryley.com/posts/dev-roles-06-graphics-programmer/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

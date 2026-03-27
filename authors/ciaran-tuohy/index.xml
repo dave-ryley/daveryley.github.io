@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ciaran-Tuohy on Dave Ryley | Game Developer</title>
+    <link>https://www.daveryley.com/authors/ciaran-tuohy/</link>
+    <description>Recent content in Ciaran-Tuohy on Dave Ryley | Game Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Dave Ryley</copyright>
+    <lastBuildDate>Thu, 12 Mar 2026 09:31:07 +0000</lastBuildDate><atom:link href="https://www.daveryley.com/authors/ciaran-tuohy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Gameplay Programmer</title>
+      <link>https://www.daveryley.com/posts/dev-roles-02-gameplay-programmer/</link>
+      <pubDate>Thu, 12 Mar 2026 09:31:07 +0000</pubDate>
+      
+      <guid>https://www.daveryley.com/posts/dev-roles-02-gameplay-programmer/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Overview&#xA;    &lt;div id=&#34;overview&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#overview&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The Gameplay Programmer is the &amp;ldquo;Swiss Army Knife&amp;rdquo; of Game Dev Engineering Roles. While other roles keep to a specialization, the gameplay programmer is defined by its lack of specialization, opting to go wide over deep to bring the other pieces together.&lt;/p&gt;&#xA;&lt;p&gt;As a Gameplay Programmer, you could find yourself working on,&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Player Movement&lt;/li&gt;&#xA;&lt;li&gt;Abilities&lt;/li&gt;&#xA;&lt;li&gt;Tutorial Systems&lt;/li&gt;&#xA;&lt;li&gt;Quest Systems&lt;/li&gt;&#xA;&lt;li&gt;Combat Systems&lt;/li&gt;&#xA;&lt;li&gt;Game Economy Systems&lt;/li&gt;&#xA;&lt;li&gt;Inventory Systems, Weapons and Items&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Just to name a few.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.daveryley.com/posts/dev-roles-02-gameplay-programmer/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

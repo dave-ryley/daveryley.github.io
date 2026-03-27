@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ui on Dave Ryley | Game Developer</title>
+    <link>https://www.daveryley.com/tags/ui/</link>
+    <description>Recent content in Ui on Dave Ryley | Game Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Dave Ryley</copyright>
+    <lastBuildDate>Fri, 13 Mar 2026 09:30:07 +0000</lastBuildDate><atom:link href="https://www.daveryley.com/tags/ui/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The UI Programmer</title>
+      <link>https://www.daveryley.com/posts/dev-roles-03-ui-programmer/</link>
+      <pubDate>Fri, 13 Mar 2026 09:30:07 +0000</pubDate>
+      
+      <guid>https://www.daveryley.com/posts/dev-roles-03-ui-programmer/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Overview&#xA;    &lt;div id=&#34;overview&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#overview&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The UI Programmer works closely with Design and UI Artists, and is responsible for any and all user interfaces seen in the game. This can include,&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Start Screen and start game flow&lt;/li&gt;&#xA;&lt;li&gt;Settings Screens&lt;/li&gt;&#xA;&lt;li&gt;The Player HUD&lt;/li&gt;&#xA;&lt;li&gt;Weapon reticules&lt;/li&gt;&#xA;&lt;li&gt;Enemy, Item Indicators&lt;/li&gt;&#xA;&lt;li&gt;Inventory Screens&lt;/li&gt;&#xA;&lt;li&gt;Minimaps&lt;/li&gt;&#xA;&lt;li&gt;Quest/Mission logs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;And any other screens or widgets you can think of.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.daveryley.com/posts/dev-roles-03-ui-programmer/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>
